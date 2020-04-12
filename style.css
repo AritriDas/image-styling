@@ -32,3 +32,12 @@ img {
 #img9 {
     clip-path: polygon(25% 0%, 75% 0%, 100% 40%, 100% 60%, 50% 100%, 0% 60%, 0% 40%);
 }
+#img10 {
+    transform: rotate(45deg);
+}
+#img11 {
+    transform: skew(20deg);
+}
+#img12 {
+    transform: skewY(20deg);
+}
